@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Arun !
+# Hi there 👋, I'm Arun !
 
 🏛 I'm currently a Software Engineering Immersive student at HackReactor.\
 💡 I'm a passionate learner. I love to learn hard material and teach it to others.\
