@@ -1,10 +1,10 @@
 # Hi there 👋, I'm Arun!
 
-🏛 I'm currently a Software Engineering Immersive student at HackReactor.\
-💡 I'm a passionate learner. I love to learn hard material and teach it to others.\
-✨ I love to learn new technologies and use them to solve problems.
+- I'm currently a Software Engineering Immersive student at HackReactor 🏛.
+-  I'm a passionate learner. I love to learn hard material and teach it to others 💡.
+-  I love to learn new technologies and use them to solve problems ✨.
 
-🌱 I’m currently learning backend system design.
+ 🌱 I’m currently learning backend system design.
 
 ## 🛠  My Tech Stack
 ### **Front End:**
